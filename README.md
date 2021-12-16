@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @kadotux
+- 👋 Hi.
 - 👀 I’m interested in contributing to open source software
 - 🌱 I’m currently learning Information Technology at Turku University of Applied Sciences
